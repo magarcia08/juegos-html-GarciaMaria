@@ -62,3 +62,5 @@ Los siguientes enlaces corresponden a las capturas realizadas durante la prácti
 - **Flexbox Zombies (Taller 4):** Se trabajaron los niveles iniciales hasta el dominio básico de las propiedades principales de `flexbox`.  
 
 Estos talleres forman parte de la práctica de **CSS Flexbox** para reforzar habilidades en diseño responsivo.
+
+## Autora: Maria Alejandra García 
