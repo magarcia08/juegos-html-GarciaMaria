@@ -41,18 +41,19 @@ Juego disponible en: [Flexbox Zombies](https://mastery.games/flexboxzombies/)
 
 Los siguientes enlaces corresponden a las capturas realizadas durante la práctica:
 
-25. ![Taller 4 - Captura 1](https://i.ibb.co/Qvx5tFLK/Captura-de-pantalla-2025-09-03-141847.png)  
-26. ![Taller 4 - Captura 2](https://i.ibb.co/ccnwpqj7/Captura-de-pantalla-2025-09-03-141835.png)  
-27. ![Taller 4 - Captura 3](https://i.ibb.co/tw19YPzr/Captura-de-pantalla-2025-09-02-162824.png)  
-28. ![Taller 4 - Captura 4](https://i.ibb.co/QFpynwVz/Captura-de-pantalla-2025-09-02-161311.png)  
-29. ![Taller 4 - Captura 5](https://i.ibb.co/4nhfsQtj/Captura-de-pantalla-2025-09-02-161242.png)  
-30. ![Taller 4 - Captura 6](https://i.ibb.co/20hNBLss/Captura-de-pantalla-2025-09-02-161213.png)  
-31. ![Taller 4 - Captura 7](https://i.ibb.co/pvJTbVZZ/Captura-de-pantalla-2025-09-02-161144.png)  
-32. ![Taller 4 - Captura 8](https://i.ibb.co/Z6V79pJ4/Captura-de-pantalla-2025-09-02-161028.png)  
-33. ![Taller 4 - Captura 9](https://i.ibb.co/fzm0x1Ff/Captura-de-pantalla-2025-09-02-161003.png)  
-34. ![Taller 4 - Captura 10](https://i.ibb.co/MDXfJYJD/Captura-de-pantalla-2025-09-02-160402.png)  
-35. ![Taller 4 - Captura 11](https://i.ibb.co/93T3ZK2G/Captura-de-pantalla-2025-09-02-160314.png)  
-36. ![Taller 4 - Captura 12](https://i.ibb.co/VcFwLCg3/Captura-de-pantalla-2025-09-02-160149.png)  
+25. ![Taller 4 - Captura 1](https://i.ibb.co/Qvx5tFLK/Captura-de-pantalla-2025-09-03-141847.png)
+26. ![Taller 4 - Captura 1](https://i.ibb.co/s9zx8wpz/Captura-de-pantalla-2025-09-03-145341.png)   
+27. ![Taller 4 - Captura 2](https://i.ibb.co/ccnwpqj7/Captura-de-pantalla-2025-09-03-141835.png)  
+28. ![Taller 4 - Captura 3](https://i.ibb.co/tw19YPzr/Captura-de-pantalla-2025-09-02-162824.png)  
+29. ![Taller 4 - Captura 4](https://i.ibb.co/QFpynwVz/Captura-de-pantalla-2025-09-02-161311.png)  
+30. ![Taller 4 - Captura 5](https://i.ibb.co/4nhfsQtj/Captura-de-pantalla-2025-09-02-161242.png)  
+31. ![Taller 4 - Captura 6](https://i.ibb.co/20hNBLss/Captura-de-pantalla-2025-09-02-161213.png)  
+32. ![Taller 4 - Captura 7](https://i.ibb.co/pvJTbVZZ/Captura-de-pantalla-2025-09-02-161144.png)  
+33. ![Taller 4 - Captura 8](https://i.ibb.co/Z6V79pJ4/Captura-de-pantalla-2025-09-02-161028.png)  
+34. ![Taller 4 - Captura 9](https://i.ibb.co/fzm0x1Ff/Captura-de-pantalla-2025-09-02-161003.png)  
+35. ![Taller 4 - Captura 10](https://i.ibb.co/MDXfJYJD/Captura-de-pantalla-2025-09-02-160402.png)  
+36. ![Taller 4 - Captura 11](https://i.ibb.co/93T3ZK2G/Captura-de-pantalla-2025-09-02-160314.png)  
+37. ![Taller 4 - Captura 12](https://i.ibb.co/VcFwLCg3/Captura-de-pantalla-2025-09-02-160149.png)  
 
 ---
 
